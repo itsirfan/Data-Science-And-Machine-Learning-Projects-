@@ -44,8 +44,7 @@ An end-to-end machine learning workflow for predicting house prices.
 **Skills Demonstrated**
 `scikit-learn` · supervised ML · regression · metrics · model comparison
 
-**Output Folder:** `task2_outputs/`  
-Includes: `pred_vs_actual.png`, `model_metrics.csv`, `model_report.txt`.
+
 
 
 
