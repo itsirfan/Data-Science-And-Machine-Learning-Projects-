@@ -47,7 +47,5 @@ An end-to-end machine learning workflow for predicting house prices.
 **Output Folder:** `task2_outputs/`  
 Includes: `pred_vs_actual.png`, `model_metrics.csv`, `model_report.txt`.
 
----
 
-## 📂 Repository Structure
 
